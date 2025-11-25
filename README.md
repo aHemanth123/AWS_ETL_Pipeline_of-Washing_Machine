@@ -96,3 +96,6 @@ ORDER BY event_count DESC;
 
 ---
  
+![image alt](https://github.com/aHemanth123/AWS_ETL_Pipeline_of-Washing_Machine/blob/63dbaf817b00757f912b2aa0aafbba260dc63da7/Washing_PBI_1.png)
+![image alt](https://github.com/aHemanth123/AWS_ETL_Pipeline_of-Washing_Machine/blob/8a3f937e59081943bef609dc465297b09fa9dfb1/Washing_PBI_2.png)
+![image alt](https://github.com/aHemanth123/AWS_ETL_Pipeline_of-Washing_Machine/blob/7e5b288881ff6da7781914075cb6154acd2bc731/Washing_PBI_3.png)
